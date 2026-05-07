@@ -1,138 +1,24 @@
-<div align="center">
+# 💫 About Me:
+🔭 I'm currently working on — A RAG-Based AI Teaching Assistant that processes course videos, transcribes audio with Whisper, and retrieves relevant content using embeddings and cosine similarity<br>👯 I'm looking to collaborate on — Deep Learning, NLP, and Computer Vision projects — especially anything involving transformer models, LLM fine-tuning, or real-world ML pipelines<br>🤝 I'm looking for help with — MLOps best practices, scaling ML models to production, and cloud deployment on AWS<br>🌱 I'm currently learning — LLM Fine-tuning and Reinforcement Learning<br>💬 Ask me about — Machine Learning, Deep Learning, NLP, Computer Vision, Python, PyTorch, HuggingFace, and turning raw data into actionable insights<br>⚡ Fun fact — I built a humor detection system using both classical ML and deep learning just to prove machines can understand jokes (kind of 😄)
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0f3460&height=200&section=header&text=Arnob%20Chakraborty&fontSize=52&fontColor=e0e0e0&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descSize=18&descColor=888888&animation=fadeIn" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+from+data;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Turning+raw+data+into+actionable+insights;Open+to+research+collaborations" alt="Typing SVG" />
-</a>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Arnob Chakraborty) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnob_chakralogy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Arnob Chakraborty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chakrabortyarnobpu.cse41@gmail.com) 
 
-<br/><br/>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=RedAro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=RedAro&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RedAro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-RedAro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RedAro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnob-chakraborty-6a2633363)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arnobck)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnob@email.com)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RedAro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-</div>
-
----
-
-## `$ whoami`
-
-```python
-class ArnobChakraborty:
-    name       = "Arnob Chakraborty"
-    alias      = "RedAro"
-    role       = "Data Scientist & ML Engineer"
-    location   = "Bangladesh 🇧🇩"
-    focus      = ["Deep Learning", "NLP", "Computer Vision", "MLOps"]
-    learning   = ["LLM Fine-tuning", "Reinforcement Learning"]
-    available  = True  # Open to collaborations & opportunities
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something intelligent together.")
-```
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=RedAro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## `$ ls skills/`
-
-<div align="center">
-
-### 🧠 Machine Learning & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
-
-### 📊 Data & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-### ⚙️ MLOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## `$ cat projects.log`
-
-<div align="center">
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🧬 **[Project Alpha](#)** | NLP-based text classification with transformer models | `PyTorch` `HuggingFace` `FastAPI` |
-| 👁️ **[Project Beta](#)** | Real-time object detection pipeline for edge devices | `OpenCV` `YOLO` `Docker` |
-| 📈 **[Project Gamma](#)** | Time-series forecasting for financial data | `LSTM` `Prophet` `Plotly` |
-| 🤖 **[Project Delta](#)** | End-to-end MLOps pipeline with CI/CD integration | `MLflow` `AWS` `GitHub Actions` |
-
-</div>
-
----
-
-## `$ cat stats.json`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RedAro&show_icons=true&theme=transparent&hide_border=true&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedAro&layout=compact&theme=transparent&hide_border=true&title_color=64FFDA&text_color=c9d1d9&bg_color=0d1117" />
-
-<br/>
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=RedAro&theme=transparent&hide_border=true&stroke=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&sideLabels=c9d1d9&dates=888888" />
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RedAro&theme=react-dark&hide_border=true&color=64FFDA&line=64FFDA&point=FF6B6B&area=true&area_color=64FFDA)
-
-</div>
-
----
-
-## `$ ls achievements/`
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=RedAro&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)
-
-</div>
-
----
-
-## `$ tail -f thoughts.log`
-
-<div align="center">
-
-> *"In God we trust. All others must bring data."*
-> — W. Edwards Deming
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=RedAro&color=64FFDA&style=flat-square&label=Profile+Views)
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d0d0d&height=120&section=footer&animation=fadeIn" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
